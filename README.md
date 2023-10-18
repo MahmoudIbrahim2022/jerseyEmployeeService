@@ -4,8 +4,11 @@ This Java Project is a Restful Webservice Provider that connects to an Employee 
 For The Following Operations (CRUD Operations) on the Employee Database
 
 1- Create Employee Record
+
 2- Retrieve Employee Record
+
 3- Update Employee Record
+
 4- Delete Employee Record
 
 
@@ -38,10 +41,13 @@ otherwise it will throw an exception
 ## Notes
 
 1- service userName : mahmoud
+
 service password : @123
 
 2- Employee Record in DB contains Following Fields
 
 A- eid (employee id) : Primary Key
+
 B- name
+
 C- salary
