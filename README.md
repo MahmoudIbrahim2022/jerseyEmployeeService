@@ -4,8 +4,11 @@ This Java Project is a Restful Webservice Provider that connects to an Employee 
 For The Following Operations (CRUD Operations) on the Employee Database
 
 1- Create Employee Record
+
 2- Retrieve Employee Record
+
 3- Update Employee Record
+
 4- Delete Employee Record
 
 
